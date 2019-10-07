@@ -1,0 +1,27 @@
+{
+  "name": "SportsRUs",
+  "version": "1.0.0",
+  "description": "a sports new app that lets users comment on the latest events!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Red13aron/SportsRUs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Red13aron/SportsRUs/issues"
+  },
+  "homepage": "https://github.com/Red13aron/SportsRUs#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.7.3"
+  }
+}
